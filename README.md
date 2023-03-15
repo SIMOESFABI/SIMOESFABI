@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**SIMOESFABI/SIMOESFABI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😊 Hello World!!
 
-Here are some ideas to get you started:
+In early 2022 I decided to make a career transition and migrate to the IT area.
+I started this journey by signing up for the Academia de Code bootcamp.
+In this trajectory, I managed to develop the ability to learn programming languages and important tools to start a career in the IT area.
+In addition to developing autonomy in the search for new knowledges.
+Personally, I have self-motivation as the main driver of my ambition.
+The ability to listen and interpersonal relationships makes me a person involved in teamwork!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧰 My Main Skills
+•	Java and Object-Oriented Programming
+•	Java Script 
+•	HTML and CSS
+• SQL (MySQL)
+
+🐱‍💻 A mixture of perseverance with resilience, and a constant search for my best!
+
+
